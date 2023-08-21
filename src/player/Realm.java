@@ -88,7 +88,6 @@ public class Realm {
         System.out.println("1. К Торговцу");
         System.out.println("2. В темный лес");
         System.out.println("3. Выход");
-        System.out.println("4. Спасать принцесу");
     }
 
     private static FantasyCharacter createMonster() {
